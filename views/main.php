@@ -15,7 +15,12 @@
             </div>
             <div class="navigation_info_blocks">
                 <div class="info_block_lightgray">
-                    <p>Каждый сезон мы подготавливаем для Вас исключительно лучшую модную одежду. Следите за нашими новинками</p>
+                    <div class="image">
+                        <!-- <img src="../images/main/icons/warning.svg" alt="warning"> -->
+                    </div>
+                    <div class="text">
+                        <p>Каждый сезон мы подготавливаем для Вас исключительно лучшую модную одежду. Следите за нашими новинками</p>
+                    </div>
                 </div>
                 <div class="info_block_jeans">
                     <a href="#">ДЖИНСЫ <br> от 3200 руб.</a>
@@ -28,7 +33,12 @@
             <div class="navigation_info_blocks">
                 <div class="info_block_shoes"></div>
                 <div class="info_block_lightgray">
-                    <p>Самые низкие цены в Москве. Нашли дешевле - вернем разницу!</p>
+                    <div class="image">
+                        <!-- <img src="../images/main/icons/warning.svg" alt="warning"> -->
+                    </div>
+                    <div class="text">
+                        <p>Самые низкие цены в Москве. Нашли дешевле - вернем разницу!</p>
+                    </div>
                 </div>
                 <div class="info_block_sport">
                     <a href="#">Спортивная одежда <br> от 590 руб.</a>
