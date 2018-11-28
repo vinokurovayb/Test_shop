@@ -3,6 +3,7 @@
             <div class="new_collection_text">
                 <h1>НОВЫЕ ПОСТУПЛЕНИЯ ВЕСНЫ</h1>
                 <h3>Мы подготовили для Вас лучшие новинки сезона</h3>
+                <!-- ссылки не рабочие. Подумать куда какая ссылка будет вести. Пока можно сделать все на каталог чтобы ссылалось -->
                 <a href="#" class="btn">ПОСМОТРЕТЬ НОВИНКИ</a>
             </div>
         </div>
@@ -16,7 +17,6 @@
             <div class="navigation_info_blocks">
                 <div class="info_block_lightgray">
                     <div class="image">
-                        <!-- <img src="../images/main/icons/warning.svg" alt="warning"> -->
                     </div>
                     <div class="text">
                         <p>Каждый сезон мы подготавливаем для Вас исключительно лучшую модную одежду. Следите за нашими новинками</p>
@@ -34,7 +34,6 @@
                 <div class="info_block_shoes"></div>
                 <div class="info_block_lightgray">
                     <div class="image">
-                        <!-- <img src="../images/main/icons/warning.svg" alt="warning"> -->
                     </div>
                     <div class="text">
                         <p>Самые низкие цены в Москве. Нашли дешевле - вернем разницу!</p>
