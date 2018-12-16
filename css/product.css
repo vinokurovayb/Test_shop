@@ -1,15 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700&subset=cyrillic,cyrillic-ext");
+
 * {
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .wrapper {
-  max-width: 1500px;
-  background-color: #e5e5e5;
+  max-width: 1200px;
+  
   margin: 0 auto;
 }
 
@@ -20,7 +19,7 @@
 }
 
 .wrapper .wrapper-work .wrapper-work-product {
-  max-width: 1180px;
+  max-width: 1200px;
   background-color: #fafafa;
   margin: 0 auto;
 }
@@ -123,7 +122,7 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  max-width: 200px;
+  width: 300px;
   margin: 0 auto;
 }
 
@@ -142,6 +141,12 @@
   line-height: 2em;
 }
 
+.product_description .product_description-product_size-size_number button:focus {
+  border: 3px #7a7a7a solid;
+  background-color: #bebebe;
+  line-height: 2em;
+}
+
 .product_description .product_description-btn {
   height: 50px;
   width: 250px;
@@ -150,6 +155,8 @@
   color: white;
   margin: 0 auto;
   margin-top: 50px;
+  margin-bottom: 50px;
+  cursor: pointer;
 }
 
 .product_description .product_description-btn:hover {
